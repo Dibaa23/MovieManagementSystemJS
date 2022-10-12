@@ -4,5 +4,5 @@ The result can be found on the console log of the website
 
 I have also attched the "expected result" file as well
 
-Just some practice writing JS :)
+Link to Github hosted page: https://dibaa23.github.io/MovieManagementSystemJS/
 
